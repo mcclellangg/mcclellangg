@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there 👋, I'm Grayson!
 
-<!--
-**mcclellangg/mcclellangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">I am a passionate software developer who loves learning! Currently looking to take on the next big challenge. Feel free to shoot me a message, and say what's up! 😄</p>
 
-Here are some ideas to get you started:
+- 👷 I'm currently working with **JavaScript, React, and Node**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 I'm learning how to use **Jest** to implement testing in my projects
+
+- 🎨 My work is on display at [https://mcclellangg.github.io/](https://mcclellangg.github.io/)
+
+- 📫 You can reach me at **mcclellangg@gmail.com**
+
+- 💬 Ask me about my current favorite emoji, as of today it is 🙇!
