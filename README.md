@@ -10,4 +10,4 @@
 
 - 📫 You can reach me at **mcclellangg@gmail.com**
 
-- 💬 Ask me about my current favorite emoji, as of today it is 🙇!
+- 💬 Ask me about my current favorite emoji, as of today it is ✨!
