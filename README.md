@@ -11,3 +11,5 @@
 - 📫 You can reach me at **mcclellangg@gmail.com**
 
 - 💬 Ask me about my current favorite emoji, as of today it is ✨!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcclellangg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
