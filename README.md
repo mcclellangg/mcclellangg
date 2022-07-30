@@ -1,10 +1,10 @@
 ### Hello there 👋, I'm Grayson!
 
-<p align="left">I am a passionate software developer who loves learning! Currently looking to take on the next big challenge. Feel free to shoot me a message, and say what's up! 😄</p>
+<p align="left">I am a passionate software developer who loves learning! Currently trying to fill gaps in my knowledge in my free time. Feel free to shoot me a message, and say what's up! 😄</p>
 
-- 👷 I'm currently working with **JavaScript, React, and Node**
+- 👷 I'm currently working through [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) as part of [OSSU](https://github.com/ossu/computer-science)
 
-- 📖 I'm learning how to use **Jest** to implement testing in my projects
+- 📖 I'm learning how to use the **shell** and other common tools to get the most use out of my computer
 
 - 🎨 My work is on display at [https://mcclellangg.github.io/](https://mcclellangg.github.io/)
 
