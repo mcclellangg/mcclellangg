@@ -2,9 +2,7 @@
 
 <p align="left">I am a passionate software developer who loves learning! Currently trying to fill gaps in my knowledge in my free time. Feel free to shoot me a message, and say what's up! 😄</p>
 
-- 👷 I'm currently working through [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) as part of [OSSU](https://github.com/ossu/computer-science)
-
-- 📖 I'm learning how to use the **shell** and other common tools to get the most use out of my computer
+- 👷 I'm currently working on running a 5e D&D campaign with my friends. Most of my contributions these days are to private repos that I use for all of my session prep work. Maybe one day it could be a complete module! :thinking:
 
 - 🎨 My work is on display at [https://mcclellangg.github.io/](https://mcclellangg.github.io/)
 
